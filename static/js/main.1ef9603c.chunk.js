@@ -1,2 +1,2 @@
 (this.webpackJsonpshop=this.webpackJsonpshop||[]).push([[0],{11:function(n,t,e){"use strict";e.r(t);e(1);var o=e(3),c=e.n(o),i=(e(8),e.p,e(9),e(0));var s=function(n){n&&n instanceof Function&&e.e(3).then(e.bind(null,12)).then((function(t){var e=t.getCLS,o=t.getFID,c=t.getFCP,i=t.getLCP,s=t.getTTFB;e(n),o(n),c(n),i(n),s(n)}))};c.a.render(Object(i.jsx)("div",{}),document.getElementById("root")),s()},8:function(n,t,e){},9:function(n,t,e){}},[[11,1,2]]]);
-//# sourceMappingURL=main.50e016d3.chunk.js.map
+//# sourceMappingURL=main.1ef9603c.chunk.js.map
