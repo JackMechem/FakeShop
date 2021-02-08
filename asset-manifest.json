@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/FakeShop/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/FakeShop/static/js/main.1ef9603c.chunk.js",
-    "main.js.map": "/FakeShop/static/js/main.1ef9603c.chunk.js.map",
+    "main.css": "/FakeShop/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/FakeShop/static/js/main.e31316ab.chunk.js",
+    "main.js.map": "/FakeShop/static/js/main.e31316ab.chunk.js.map",
     "runtime-main.js": "/FakeShop/static/js/runtime-main.85c932ed.js",
     "runtime-main.js.map": "/FakeShop/static/js/runtime-main.85c932ed.js.map",
     "static/js/2.4f95c691.chunk.js": "/FakeShop/static/js/2.4f95c691.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.4886dfc3.chunk.js": "/FakeShop/static/js/3.4886dfc3.chunk.js",
     "static/js/3.4886dfc3.chunk.js.map": "/FakeShop/static/js/3.4886dfc3.chunk.js.map",
     "index.html": "/FakeShop/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/FakeShop/static/css/main.ea1455b2.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/FakeShop/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.4f95c691.chunk.js.LICENSE.txt": "/FakeShop/static/js/2.4f95c691.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/FakeShop/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.85c932ed.js",
     "static/js/2.4f95c691.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.1ef9603c.chunk.js"
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e31316ab.chunk.js"
   ]
 }
